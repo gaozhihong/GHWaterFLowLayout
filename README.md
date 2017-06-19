@@ -1,0 +1,2 @@
+自定义封装flowLayout，实现collectionView瀑布流。
+主要重写了几个系统的方法，使用起来直观方便，具体请参考实例demo，谢谢大家
