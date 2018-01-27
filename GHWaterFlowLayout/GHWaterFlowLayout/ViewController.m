@@ -20,11 +20,10 @@ NSString *cellId = @"cellId";
 }
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
     // Do any additional setup after loading the view, typically
     self.view.backgroundColor = [UIColor whiteColor];
-    
     [self setupCollectionView];
+     // chedan  
     
 }
 -(void)setupCollectionView{
