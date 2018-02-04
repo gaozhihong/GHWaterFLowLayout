@@ -23,7 +23,7 @@ NSString *cellId = @"cellId";
     // Do any additional setup after loading the view, typically
     self.view.backgroundColor = [UIColor whiteColor];
     [self setupCollectionView];
-     // cale  
+    
 //
 }
 -(void)setupCollectionView{
