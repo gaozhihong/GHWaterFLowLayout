@@ -25,6 +25,7 @@ NSString *cellId = @"cellId";
     self.view.backgroundColor = [UIColor whiteColor];
     
     [self setupCollectionView];
+      // 草蛋测试
     
 }
 -(void)setupCollectionView{
